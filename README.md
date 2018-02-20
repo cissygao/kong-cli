@@ -1,4 +1,4 @@
-===========
+
 Kong Command Line Client
 ===========
 
